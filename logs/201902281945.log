@@ -1,0 +1,13 @@
+2019-02-28 19:45:08,976 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 19:45:08,976 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 19:45:12,109 - BrowserEngine - INFO - Staring chrome browser.
+2019-02-28 19:45:12,664 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php
+2019-02-28 19:45:13,819 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 19:45:13,825 - BrowserEngine - INFO - Set implicity wait 10 seconds. 
+2019-02-28 19:45:13,995 - BasePage - INFO - nyx被输入
+2019-02-28 19:45:14,095 - BasePage - INFO - 123456被输入
+2019-02-28 19:45:14,185 - BasePage - INFO - 登录 is be clicked
+2019-02-28 19:45:14,592 - BasePage - ERROR - Failed to be clicked
+2019-02-28 19:45:16,797 - BasePage - INFO - haotest被输入
+2019-02-28 19:45:16,961 - BasePage - INFO -  is be clicked
+2019-02-28 19:45:20,207 - BasePage - INFO - haotest is be clicked

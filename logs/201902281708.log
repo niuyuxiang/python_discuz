@@ -1,0 +1,13 @@
+2019-02-28 17:08:35,010 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 17:08:35,010 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 17:08:38,139 - BrowserEngine - INFO - Staring chrome browser.
+2019-02-28 17:08:38,761 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php
+2019-02-28 17:08:39,915 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 17:08:39,915 - BrowserEngine - INFO - Set implicity wait 10 seconds. 
+2019-02-28 17:08:40,075 - BasePage - INFO - nyx被输入
+2019-02-28 17:08:40,188 - BasePage - INFO - 123456被输入
+2019-02-28 17:08:40,287 - BasePage - INFO - 登录 is be clicked
+2019-02-28 17:08:41,185 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:08:53,719 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:08:59,161 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:09:09,698 - BasePage - ERROR - clear fail'NoneType' object has no attribute 'clear'

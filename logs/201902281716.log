@@ -1,0 +1,33 @@
+2019-02-28 17:16:10,560 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 17:16:10,560 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 17:16:13,623 - BrowserEngine - INFO - Staring chrome browser.
+2019-02-28 17:16:14,158 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php
+2019-02-28 17:16:15,321 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 17:16:15,326 - BrowserEngine - INFO - Set implicity wait 10 seconds. 
+2019-02-28 17:16:15,481 - BasePage - INFO - nyx被输入
+2019-02-28 17:16:15,584 - BasePage - INFO - 123456被输入
+2019-02-28 17:16:15,672 - BasePage - INFO - 登录 is be clicked
+2019-02-28 17:16:16,093 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:16:18,280 - BasePage - INFO - haotest被输入
+2019-02-28 17:16:32,950 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 17:16:32,950 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 17:16:36,344 - BrowserEngine - INFO - Staring chrome browser.
+2019-02-28 17:16:36,953 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php
+2019-02-28 17:16:38,132 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 17:16:38,134 - BrowserEngine - INFO - Set implicity wait 10 seconds. 
+2019-02-28 17:16:38,294 - BasePage - INFO - nyx被输入
+2019-02-28 17:16:38,404 - BasePage - INFO - 123456被输入
+2019-02-28 17:16:38,500 - BasePage - INFO - 登录 is be clicked
+2019-02-28 17:16:38,927 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:16:44,384 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:16:48,776 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:16:48,865 - BasePage - INFO - 1被输入
+2019-02-28 17:16:48,983 - BasePage - INFO - 12被输入
+2019-02-28 17:16:49,094 - BasePage - INFO - 123被输入
+2019-02-28 17:16:49,200 - BasePage - INFO - 1234被输入
+2019-02-28 17:16:49,312 - BasePage - INFO - 发表投票被输入
+2019-02-28 17:16:49,521 - BasePage - INFO - 发起投票 is be clicked
+2019-02-28 17:16:54,647 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:16:54,762 - BasePage - INFO -  is be clicked
+2019-02-28 17:16:54,880 - BasePage - INFO -  is be clicked
+2019-02-28 17:16:55,705 - BasePage - ERROR - Failed to be clicked

@@ -1,0 +1,20 @@
+2019-02-28 17:42:05,160 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 17:42:05,160 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 17:42:08,503 - BrowserEngine - INFO - Staring chrome browser.
+2019-02-28 17:42:09,069 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php
+2019-02-28 17:42:10,242 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 17:42:10,243 - BrowserEngine - INFO - Set implicity wait 10 seconds. 
+2019-02-28 17:42:10,415 - BasePage - INFO - nyx被输入
+2019-02-28 17:42:10,517 - BasePage - INFO - 123456被输入
+2019-02-28 17:42:10,606 - BasePage - INFO - 登录 is be clicked
+2019-02-28 17:42:11,038 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:42:11,457 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:42:11,662 - BasePage - INFO - 我的测试被输入
+2019-02-28 17:42:11,851 - BasePage - INFO - 中实施D佛靠金装保护视力多提意见意图被输入
+2019-02-28 17:42:12,000 - BasePage - INFO - 发表帖子 is be clicked
+2019-02-28 17:42:20,982 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:42:20,998 - BasePage - ERROR - Failed to be clicked
+2019-02-28 17:42:20,998 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 17:42:20,998 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 17:42:24,630 - BrowserEngine - INFO - Staring chrome browser.
+2019-02-28 17:42:25,188 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php

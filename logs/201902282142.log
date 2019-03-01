@@ -1,0 +1,46 @@
+2019-02-28 21:42:01,409 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 21:42:01,410 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 21:42:04,672 - BrowserEngine - INFO - Staring chrome browser.
+2019-02-28 21:42:05,285 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php
+2019-02-28 21:42:06,439 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 21:42:06,448 - BrowserEngine - INFO - Set implicity wait 10 seconds. 
+2019-02-28 21:42:06,628 - BasePage - INFO - nyx被输入
+2019-02-28 21:42:06,745 - BasePage - INFO - 123456被输入
+2019-02-28 21:42:06,846 - BasePage - INFO - 登录 is be clicked
+2019-02-28 21:42:07,317 - BasePage - ERROR - Failed to be clicked
+2019-02-28 21:42:12,772 - BasePage - ERROR - Failed to be clicked
+2019-02-28 21:42:13,455 - BasePage - ERROR - Failed to be clicked
+2019-02-28 21:42:14,070 - BasePage - ERROR - Failed to be clicked
+2019-02-28 21:42:14,180 - BasePage - INFO - 1被输入
+2019-02-28 21:42:14,302 - BasePage - INFO - 12被输入
+2019-02-28 21:42:14,457 - BasePage - INFO - 123被输入
+2019-02-28 21:42:14,582 - BasePage - INFO - 1234被输入
+2019-02-28 21:42:14,711 - BasePage - INFO - 发表投票被输入
+2019-02-28 21:42:14,943 - BasePage - INFO - 发起投票 is be clicked
+2019-02-28 21:42:20,254 - BasePage - INFO -  is be clicked
+2019-02-28 21:42:20,450 - BasePage - INFO -  is be clicked
+2019-02-28 21:42:20,663 - BasePage - INFO -  is be clicked
+2019-02-28 21:42:21,575 - BasePage - ERROR - Failed to be clicked
+2019-02-28 21:42:33,201 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 21:42:33,201 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-02-28 21:42:36,325 - BrowserEngine - INFO - Staring chrome browser.
+2019-02-28 21:42:36,918 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php
+2019-02-28 21:42:38,053 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 21:42:38,055 - BrowserEngine - INFO - Set implicity wait 10 seconds. 
+2019-02-28 21:42:38,230 - BasePage - INFO - nyx被输入
+2019-02-28 21:42:38,363 - BasePage - INFO - 123456被输入
+2019-02-28 21:42:38,462 - BasePage - INFO - 登录 is be clicked
+2019-02-28 21:42:39,380 - BasePage - ERROR - Failed to be clicked
+2019-02-28 21:42:54,946 - BasePage - ERROR - Failed to be clicked
+2019-02-28 21:42:55,690 - BasePage - ERROR - Failed to be clicked
+2019-02-28 21:42:56,232 - BasePage - ERROR - Failed to be clicked
+2019-02-28 21:42:56,335 - BasePage - INFO - 1被输入
+2019-02-28 21:42:56,456 - BasePage - INFO - 12被输入
+2019-02-28 21:42:56,606 - BasePage - INFO - 123被输入
+2019-02-28 21:42:56,730 - BasePage - INFO - 1234被输入
+2019-02-28 21:42:56,857 - BasePage - INFO - 发表投票被输入
+2019-02-28 21:42:57,064 - BasePage - INFO - 发起投票 is be clicked
+2019-02-28 21:43:02,341 - BasePage - INFO -  is be clicked
+2019-02-28 21:43:02,510 - BasePage - INFO -  is be clicked
+2019-02-28 21:43:02,682 - BasePage - INFO -  is be clicked
+2019-02-28 21:43:03,712 - BasePage - ERROR - Failed to be clicked
