@@ -1,0 +1,16 @@
+2019-04-07 19:16:37,981 - BrowserEngine - INFO - You had select Chrome browser
+2019-04-07 19:16:37,981 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1:12345/forum.php
+2019-04-07 19:16:42,881 - BrowserEngine - INFO - Staring chrome browser.
+2019-04-07 19:16:44,216 - BrowserEngine - INFO - Open url:http://127.0.0.1:12345/forum.php
+2019-04-07 19:16:45,353 - BrowserEngine - INFO - Maximize the current window.
+2019-04-07 19:16:45,354 - BrowserEngine - INFO - Set implicity wait 10 seconds. 
+2019-04-07 19:16:45,589 - BasePage - INFO - nyx被输入
+2019-04-07 19:16:45,714 - BasePage - INFO - 123456被输入
+2019-04-07 19:16:46,121 - BasePage - INFO - 截图保存到 /screenshots
+2019-04-07 19:16:46,271 - BasePage - INFO - 已成功被点击
+2019-04-07 19:16:46,968 - BasePage - ERROR - Failed to be clicked
+2019-04-07 19:16:47,604 - BasePage - INFO - 已成功被点击
+2019-04-07 19:16:48,004 - BasePage - INFO - 我的第一个测试被输入
+2019-04-07 19:16:48,356 - BasePage - INFO - 这是论坛的第一个测试用户登录默认板块发帖默认板块回帖用户退出被输入
+2019-04-07 19:17:53,017 - BasePage - INFO - 已成功被点击
+2019-04-07 19:18:03,585 - BasePage - ERROR - Failed to be clicked

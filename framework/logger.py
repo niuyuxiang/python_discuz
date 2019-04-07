@@ -4,6 +4,7 @@ import time
 class Logger(object):
     def __init__(self,logger):
         self.logger=logging.getLogger(logger)
+
         self.logger.setLevel(logging.DEBUG)
         rq=time.strftime('%Y%m%d%H%M',time.localtime(time.time()))
         log_path=os.path.dirname(os.path.abspath('.'))+'/logs/'

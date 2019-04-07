@@ -1,0 +1,23 @@
+2019-03-03 10:55:17,677 - BrowserEngine - INFO - You had select Chrome browser
+2019-03-03 10:55:17,677 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-03-03 10:55:21,513 - BrowserEngine - INFO - Staring chrome browser.
+2019-03-03 10:55:22,266 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php
+2019-03-03 10:55:23,433 - BrowserEngine - INFO - Maximize the current window.
+2019-03-03 10:55:23,439 - BrowserEngine - INFO - Set implicity wait 10 seconds. 
+2019-03-03 10:55:23,590 - BasePage - INFO - nyx被输入
+2019-03-03 10:55:23,706 - BasePage - INFO - 123456被输入
+2019-03-03 10:55:23,812 - BasePage - INFO - 登录 is be clicked
+2019-03-03 10:55:24,682 - BasePage - ERROR - Failed to be clicked
+2019-03-03 10:55:40,217 - BasePage - ERROR - Failed to be clicked
+2019-03-03 10:55:41,066 - BasePage - ERROR - Failed to be clicked
+2019-03-03 10:55:41,873 - BasePage - ERROR - Failed to be clicked
+2019-03-03 10:55:41,997 - BasePage - INFO - 投票名被输入
+2019-03-03 10:55:42,145 - BasePage - INFO - 第一个被输入
+2019-03-03 10:55:42,249 - BasePage - INFO - 第二个被输入
+2019-03-03 10:55:42,374 - BasePage - INFO - 1234被输入
+2019-03-03 10:55:42,542 - BasePage - INFO - 发表投票被输入
+2019-03-03 10:55:42,749 - BasePage - INFO - 发起投票 is be clicked
+2019-03-03 10:55:47,992 - BasePage - INFO -  is be clicked
+2019-03-03 10:55:48,094 - BasePage - INFO -  is be clicked
+2019-03-03 10:55:48,203 - BasePage - INFO -  is be clicked
+2019-03-03 10:55:49,152 - BasePage - ERROR - Failed to be clicked

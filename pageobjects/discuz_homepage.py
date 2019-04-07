@@ -66,12 +66,15 @@ class HomePage(BasePage):
 
     radio_frame=(By.CSS_SELECTOR,".pcht tr")   #找到选票的整个文本框
 
-    option_title=(By.CSS_SELECTOR,".ts span")    #发起投票的标题
+    option_title=(By.ID,"thread_subject")    #发起投票的标题
 
 
     def search(self,text1,text2):
         self.sendkeys(text1,*self.username)
         self.sendkeys(text2,*self.password)
+
+        self.get_windows_img()
+
         self.click(*self.log_button)
         self.click(*self.moren)
     def fatie(self,text1,text2):
@@ -154,8 +157,7 @@ class HomePage(BasePage):
         self.click(*self.radio_option_3)
         self.click(*self.radio_submit)
     def vote_frame(self):
-        print(self.bianli(*self.radio_frame))
+        print("投票内容及所在比例",self.get_ratios(*self.radio_frame))
 
-
-    # def vote_title(self):
-    #     print("*self.option_title".text)
+    def vote_title(self):
+        print(self.find_text(*self.option_title))

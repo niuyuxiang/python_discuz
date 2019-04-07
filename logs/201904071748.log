@@ -1,0 +1,4 @@
+2019-04-07 17:48:33,268 - BrowserEngine - INFO - You had select Chrome browser
+2019-04-07 17:48:33,268 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-04-07 17:48:37,350 - BrowserEngine - INFO - Staring chrome browser.
+2019-04-07 17:48:37,654 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php

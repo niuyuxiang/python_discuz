@@ -1,0 +1,10 @@
+2019-04-02 19:22:12,352 - BrowserEngine - INFO - You had select Chrome browser
+2019-04-02 19:22:12,352 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-04-02 19:22:19,282 - BrowserEngine - INFO - Staring chrome browser.
+2019-04-02 19:22:19,640 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php
+2019-04-02 19:22:20,767 - BrowserEngine - INFO - Maximize the current window.
+2019-04-02 19:22:20,769 - BrowserEngine - INFO - Set implicity wait 10 seconds. 
+2019-04-02 19:22:22,559 - BrowserEngine - INFO - You had select Chrome browser
+2019-04-02 19:22:22,559 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-04-02 19:22:28,033 - BrowserEngine - INFO - Staring chrome browser.
+2019-04-02 19:22:28,304 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php

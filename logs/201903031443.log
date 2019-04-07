@@ -1,0 +1,23 @@
+2019-03-03 14:43:24,557 - BrowserEngine - INFO - You had select Chrome browser
+2019-03-03 14:43:24,557 - BrowserEngine - INFO - The test sever url is:http://127.0.0.1/forum.php
+2019-03-03 14:43:28,039 - BrowserEngine - INFO - Staring chrome browser.
+2019-03-03 14:43:28,802 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php
+2019-03-03 14:43:30,174 - BrowserEngine - INFO - Maximize the current window.
+2019-03-03 14:43:30,174 - BrowserEngine - INFO - Set implicity wait 10 seconds. 
+2019-03-03 14:43:30,399 - BasePage - INFO - nyx被输入
+2019-03-03 14:43:30,567 - BasePage - INFO - 123456被输入
+2019-03-03 14:43:30,705 - BasePage - INFO - 已成功被点击
+2019-03-03 14:43:31,288 - BasePage - ERROR - Failed to be clicked
+2019-03-03 14:43:41,773 - BasePage - INFO - 已成功被点击
+2019-03-03 14:43:47,382 - BasePage - INFO - 已成功被点击
+2019-03-03 14:43:52,789 - BasePage - INFO - 已成功被点击
+2019-03-03 14:43:52,884 - BasePage - INFO - 投票名被输入
+2019-03-03 14:43:53,003 - BasePage - INFO - 第一个被输入
+2019-03-03 14:43:53,099 - BasePage - INFO - 第二个被输入
+2019-03-03 14:43:53,197 - BasePage - INFO - 1234被输入
+2019-03-03 14:43:53,322 - BasePage - INFO - 发表投票被输入
+2019-03-03 14:43:53,780 - BasePage - INFO - 已成功被点击
+2019-03-03 14:43:58,868 - BasePage - INFO - 已成功被点击
+2019-03-03 14:43:59,007 - BasePage - INFO - 已成功被点击
+2019-03-03 14:43:59,116 - BasePage - INFO - 已成功被点击
+2019-03-03 14:43:59,854 - BasePage - INFO - 已成功被点击
